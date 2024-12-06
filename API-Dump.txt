@@ -910,7 +910,7 @@ Class BaseWrap : Instance [NotCreatable]
 	Function BaseWrap:IsHSRReady() -> boolean {RobloxScriptSecurity}
 	Function BaseWrap:ModifyVertices(cageType: Enum.CageType, vertices: { any }) -> () {RobloxScriptSecurity}
 	Event BaseWrap.VerticesModified(vertices: { any }) {RobloxScriptSecurity}
-Class WrapDeformer : BaseWrap [NotBrowsable]
+Class WrapDeformer : BaseWrap
 	Function WrapDeformer:CreateEditableMeshAsync() -> Object [Yields]
 	Function WrapDeformer:GetDeformedCFrameAsync(originalCFrame: CFrame) -> CFrame [Yields]
 	Function WrapDeformer:SetCageMeshContent(content: string) -> ()
