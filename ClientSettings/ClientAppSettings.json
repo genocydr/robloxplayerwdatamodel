@@ -1,0 +1,10 @@
+﻿{
+  "FFlagDebugGraphicsPreferD3D11": "True",
+  "DFFlagDebugRenderForceTechnologyVoxel": "True",
+  "FStringDebugShowFlagState": "FFlagDebugGraphicsForceGL2, FFlagDebugGraphicsPreferD3D11, FFlagDebugGraphicsPreferD3D11FL10, FFlagDebugGraphicsPreferOpenGL, FFlagDebugGraphicsPreferVulkan, FFlagSetDbgInfoD3D11, FFlagSetDbgInfoOpenGL, FFlagSetDbgInfoVulkan",
+  "DFIntFrameRateMSToReduceTouchEvents": "2147483647",
+  "FFlagDebugGraphicsForceGL2": "True",
+  "FFlagDebugGraphicsPreferD3D11FL10": "True",
+  "FFlagDebugGraphicsPreferOpenGL": "True",
+  "FFlagDebugGraphicsPreferVulkan": "True"
+}
