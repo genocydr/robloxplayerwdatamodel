@@ -1,6 +1,0 @@
-MAIN:
-  PREPVARARGS 0
-  GETIMPORT R0 K2 [Instance.new]
-  LOADK R1 K3 ["Team"]
-  CALL R0 1 -1
-  RETURN R0 -1
