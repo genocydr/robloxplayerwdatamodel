@@ -465,7 +465,6 @@ UIFogVS,Vertex
 UIFS,Fragment
 UIFSAdvSDBox,Fragment
 UIFSMdrSDBox,Fragment
-UIFSPremultiplied,Fragment
 UILitFogFSSDBox,Fragment
 UITransformedLitFogVS,Vertex
 UITransformedVS,Vertex
